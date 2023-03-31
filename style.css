@@ -1,0 +1,43 @@
+#container{
+    
+    background-image: url('./images/Bodybuilder-In-Smokey-Room-Looking-Up-Holding-Dumbbells.webp');
+    background-repeat: no-repeat;
+   height: 750px;
+    background-size: cover;
+
+}  
+.text{
+    margin-top: 300px;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+}
+
+#para{
+    font-family: 'Climate Crisis', cursive;
+    color:coral;
+
+
+    
+}
+
+.iconDiv{
+    margin-top:5% ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+
+}
+
+
+
+
